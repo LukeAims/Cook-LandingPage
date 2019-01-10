@@ -14,9 +14,9 @@ p.time {
   color: gray;
 }
 
-a.external-link {
-  color: SeaGreen
-}
+ /*.external-link {
+  color: SeaGreen 
+}*/
 
 .description {
   font-size: 20px;
